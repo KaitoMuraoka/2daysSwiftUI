@@ -15,6 +15,7 @@
 		3F5E101B2B4EC72100D93FF0 /* MyMusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5E101A2B4EC72100D93FF0 /* MyMusicUITests.swift */; };
 		3F5E101D2B4EC72100D93FF0 /* MyMusicUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5E101C2B4EC72100D93FF0 /* MyMusicUITestsLaunchTests.swift */; };
 		3F5E102A2B4ECA9100D93FF0 /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5E10292B4ECA9100D93FF0 /* SoundPlayer.swift */; };
+		3F5E102C2B4ECEE100D93FF0 /* BackGroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5E102B2B4ECEE100D93FF0 /* BackGroundView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		3F5E101A2B4EC72100D93FF0 /* MyMusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMusicUITests.swift; sourceTree = "<group>"; };
 		3F5E101C2B4EC72100D93FF0 /* MyMusicUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMusicUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		3F5E10292B4ECA9100D93FF0 /* SoundPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
+		3F5E102B2B4ECEE100D93FF0 /* BackGroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackGroundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				3F5E0FFF2B4EC72000D93FF0 /* MyMusicApp.swift */,
 				3F5E10012B4EC72000D93FF0 /* ContentView.swift */,
+				3F5E102B2B4ECEE100D93FF0 /* BackGroundView.swift */,
 				3F5E10032B4EC72100D93FF0 /* Assets.xcassets */,
 				3F5E10052B4EC72100D93FF0 /* Preview Content */,
 				3F5E10292B4ECA9100D93FF0 /* SoundPlayer.swift */,
@@ -262,6 +265,7 @@
 			files = (
 				3F5E10022B4EC72000D93FF0 /* ContentView.swift in Sources */,
 				3F5E102A2B4ECA9100D93FF0 /* SoundPlayer.swift in Sources */,
+				3F5E102C2B4ECEE100D93FF0 /* BackGroundView.swift in Sources */,
 				3F5E10002B4EC72000D93FF0 /* MyMusicApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

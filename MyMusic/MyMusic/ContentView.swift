@@ -11,10 +11,7 @@ struct ContentView: View {
     let soundPlayer = SoundPlayer()
     var body: some View {
         ZStack {
-            Image("background")
-                .resizable()
-                .ignoresSafeArea()
-                .aspectRatio(contentMode: .fill)
+            BackGroundView(imageName: "background")
             
             HStack {
                 Button(action: {
